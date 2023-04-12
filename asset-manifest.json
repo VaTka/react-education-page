@@ -1,16 +1,16 @@
 {
   "files": {
     "main.css": "/react-education-page/static/css/main.c9a7c98e.css",
-    "main.js": "/react-education-page/static/js/main.0dd930a8.js",
+    "main.js": "/react-education-page/static/js/main.01672921.js",
     "static/media/photo1.jpg": "/react-education-page/static/media/photo1.7d5616d7452130289bcc.jpg",
     "static/media/header.jpg": "/react-education-page/static/media/header.ed0e668e54bf52a65c06.jpg",
     "index.html": "/react-education-page/index.html",
     "static/media/burger-icon.svg": "/react-education-page/static/media/burger-icon.5590051d6c070bcc602be064ab0ebd3a.svg",
     "main.c9a7c98e.css.map": "/react-education-page/static/css/main.c9a7c98e.css.map",
-    "main.0dd930a8.js.map": "/react-education-page/static/js/main.0dd930a8.js.map"
+    "main.01672921.js.map": "/react-education-page/static/js/main.01672921.js.map"
   },
   "entrypoints": [
     "static/css/main.c9a7c98e.css",
-    "static/js/main.0dd930a8.js"
+    "static/js/main.01672921.js"
   ]
 }
